@@ -1,0 +1,30 @@
+= godot
+
+https://godotengine.org/
+
+https://editor.godotengine.org/
+
+https://docs.godotengine.org/
+
+Tutorials and resources::
+https://docs.godotengine.org/en/stable/community/tutorials.html
+
+Your first 2D game::
+https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html
+
+Your first 3D game::
+https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html
+
+== Assets
+
+=== Godot Engine
+
+https://godotengine.org/asset-library/asset?user=Godot%20Engine
+
+==== Pong with GDScript Demo
+
+https://godotengine.org/asset-library/asset/2728
+
+==== Kinematic Character 2D Demo
+
+https://godotengine.org/asset-library/asset/2719
