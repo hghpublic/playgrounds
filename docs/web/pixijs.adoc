@@ -1,0 +1,5 @@
+= pixijs
+
+https://pixijs.com/
+
+https://pixijs.com/8.x/playground
