@@ -3,3 +3,5 @@
 https://pixijs.com/
 
 https://pixijs.com/8.x/playground
+
+https://github.com/pixijs/pixijs
